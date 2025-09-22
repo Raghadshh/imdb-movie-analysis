@@ -21,7 +21,7 @@ The goal is to understand patterns in movie ratings, genres, and votes, and to b
 - Matplotlib & Seaborn (visualization)
 - Scikit-learn (linear regression, model evaluation)
 
-## 🔎 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 - Checked for missing values and cleaned the dataset
 - Converted release year into proper numeric format
 - Visualized:
