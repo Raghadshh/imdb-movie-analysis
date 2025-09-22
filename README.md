@@ -15,7 +15,7 @@ The goal is to understand patterns in movie ratings, genres, and votes, and to b
   - Votes
   - Meta Score
 
-## 🛠Tools & Libraries
+## Tools & Libraries
 - Python 3
 - Pandas & NumPy (data manipulation)
 - Matplotlib & Seaborn (visualization)
